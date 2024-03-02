@@ -1,0 +1,36 @@
+import "dart:math";
+
+final random = new Random();
+final List<String> wilaya = [
+  'Adrar',
+  'Chlef',
+  'Laghouat',
+  'Oum El Bouaghi',
+  'Batna',
+  'Bejaia',
+  'Biskra',
+  'Bechar',
+  'Blida',
+  'Bouira',
+  'Tamanrasset',
+  'Tebessa',
+  'Tlemcen',
+  'Tiaret',
+  'Tizi Ouzou',
+  'Algiers',
+  'Djelfa',
+  'Jijel',
+  'Setif',
+  'Saïda',
+  'Skikda',
+  'Sidi Bel Abbes',
+  'Annaba',
+  'Guelma',
+  'Constantine',
+  'Medea',
+  'Mostaganem',
+  'Msila',
+  'Mascara',
+  'Ouargla',
+  'Oran'
+];

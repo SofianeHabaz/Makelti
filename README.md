@@ -1,5 +1,5 @@
 # Makelti
-MAKELTI is more than just an e-commerce app. It is designed to be a source of support and inspiration for people with specific dietary needs. 
+MAKELTI is more than just an e-commerce app. It is designed to be a source of support and inspiration for people with specific dietary needs (Hackiha 2024 Micro Club Hackathon). 
 
 
 <img src="https://github.com/SofianeHabaz/Makelti/assets/89341967/fecc54fe-7553-4568-86f8-5816fc88073b" width="190" />
